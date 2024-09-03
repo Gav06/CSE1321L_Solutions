@@ -4,7 +4,7 @@ Section:    Module 2
 Term:       Fall 2024
 Instructor: J. Pothuri
 Name:       Gavin Conley
-Lab: 3B
+Lab4: 3B
 """
 c1h = int(input("Course 1 hours: "))
 c1g = int(input("Grade for course 1: "))

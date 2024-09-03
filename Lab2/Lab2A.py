@@ -4,7 +4,7 @@ Section:    Module 1
 Term:       Fall 2024
 Instructor: J. Pothuri
 Name:       Gavin Conley
-Lab:        2A
+Lab4:        2A
 """
 name1 = input("Enter a name: ")
 name2 = input("Enter another name: ")

@@ -4,7 +4,7 @@ Section:    Module 2
 Term:       Fall 2024
 Instructor: J. Pothuri
 Name:       Gavin Conley
-Lab: 3C
+Lab4: 3C
 """
 num_sml = int(input("Enter the number of small sandwiches: "))
 num_med = int(input("Enter the number of medium sandwiches: "))
