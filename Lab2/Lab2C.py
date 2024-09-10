@@ -4,7 +4,7 @@ Section:    Module 1
 Term:       Fall 2024
 Instructor: J. Pothuri
 Name:       Gavin Conley
-Lab4:        2C
+Lab:        2C
 """
 width = int(input("Enter a width: "))
 height = int(input("Enter a height: "))
