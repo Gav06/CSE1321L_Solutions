@@ -1,6 +1,6 @@
 # CSE1321L Solutions
 
-These are my solutions for the labs and assignments for the CSE1321L (Programming 1 Lab) course.
+These are my solutions for the labs and assignments for the CSE1321L (Programming 1 Lab) course at Kennesaw State.
 
 Use them at your own risk. These are merely here for reference and archival purposes.
 
