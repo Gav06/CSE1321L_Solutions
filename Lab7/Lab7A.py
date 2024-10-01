@@ -40,7 +40,7 @@ while True:
     val = math.sin(x * TWOPI)
 
     # normalize our value between 0 and 1
-    normal = normalize(val, -1.0, 1.0)
+    normal = 1.0 - (normalize(val, -1.0, 1.0))
 
     color = int(255 * normal)
     screen.fill(color=(color, color, color))
